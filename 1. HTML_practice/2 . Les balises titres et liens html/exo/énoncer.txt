@@ -1,0 +1,13 @@
+Les balises titres et liens HTML 
+
+1. Créer une structure de page web avec comme nom de page : "Les balises HTML"
+
+2. Créer un titre de la plus grande taille possible avec comme titre : "Je suis le plus grand titre"
+
+3. Créer un titre de plus petite taille possible avec comme titre : "Je suis le plus petit titre"
+
+4. Créer un lien vers Google, le nom du lien doit être : "Google"
+
+5. Bonus : Le lien que vous avez créer doit s'ouvrir sur une autre page !
+
+Faire une recherche sur internet 🔍
